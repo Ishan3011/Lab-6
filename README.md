@@ -8,4 +8,4 @@ Instruction to get this file in PLab Environment.
 3. enter your sudo password available for Kali machine "Kali".
 4. once git is installed on the system.
 5. Now use the following command to clone the repository to PLAB env.
-    "git clone https://gitub.com/Ishan3011/Lab-6"
+    "git clone https://github.com/Ishan3011/Lab-6"
